@@ -1,0 +1,39 @@
+_repo: The-Road-to-the-Open_45895
+_version: 0.1.0
+alternative_title: Der Weg ins Freie. English
+contributor:
+  translator:
+    agent_name: Samuel, Horace Barnett
+    alias: Samuel, Horace B. (Horace Barnett)
+    birthdate: 1883
+    deathdate: 1950
+    gutenberg_agent_id: '42900'
+    url: http://www.gutenberg.org/2009/agents/42900
+covers:
+- cover_type: archival
+  image_path: 45895-h/images/schnitzler_cover.jpg
+creator:
+  author:
+    agent_name: Schnitzler, Arthur
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '3010'
+    url: http://www.gutenberg.org/2009/agents/3010
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Schnitzler
+description: ''
+gutenberg_issued: '2014-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Jews -- Austria -- Fiction'
+- !lcsh 'Antisemitism -- Fiction'
+- !lcsh 'Middle class -- Fiction'
+- !lcsh 'Vienna (Austria) -- Fiction'
+title: The Road to the Open
+url: http://www.gutenberg.org/ebooks/45895
